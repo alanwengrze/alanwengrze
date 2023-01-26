@@ -7,7 +7,7 @@
 </div>
   
 <hr/>
-  <div style="padding:20px;">
+  <div style="padding:20px">
      <h2>Techs and Tools</h2>
 
      <h3>Experience</h3>
