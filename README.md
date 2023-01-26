@@ -1,5 +1,12 @@
 ### Hi, I'm Alan Wengrze!
 
+<div>
+<a href="https://github.com/alanwengrze">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanwengrze&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanwengrze&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+<hr/>
 ### Techs and Tools
 
 <div style="display: inline_block"><br>
@@ -10,7 +17,6 @@
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alan-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Alan-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  ##
  
  ### Contact
 <div> 
