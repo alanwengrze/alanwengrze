@@ -1,14 +1,6 @@
 ### Hi, I'm Alan Wengrze!
-
-<div style="margin:auto">
-  <a href="https://github.com/alanwengrze">
-  <img height="180em" weigh="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanwengrze&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" weigh="100%" src="https://github-readme-stats.vercel.app/api?username=alanwengrze&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   
 <hr/>
-   <h2>Techs and Tools</h2>
-
    <h3>Experience</h3>
 
   <div style="display: inline_block">
