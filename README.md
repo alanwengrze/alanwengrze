@@ -1,6 +1,5 @@
 ### Hi, I'm Alan Wengrze!
   
-<hr/>
    <h3>Experience</h3>
 
   <div style="display: inline_block">
