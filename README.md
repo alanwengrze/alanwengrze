@@ -2,7 +2,7 @@
   ### About me
   - 🧠 Web developer dedicated to improving 1% every day.
   - 🎓 **Systems Development** at Instituto Federal de Santa Catarina
-  - 📖 Studying Web development at ![Rocketseat](https://www.rocketseat.com.br)
+  - 📖 Studying Web development at [Rocketseat](https://www.rocketseat.com.br)
   ### Skills
   
    ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
