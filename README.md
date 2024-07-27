@@ -1,4 +1,8 @@
 ## Hi, I'm Alan Wengrze!
+  ### About me
+  - 🧠 Web developer dedicated to improving 1% every day.
+  - 🎓 **Systems Development** at Instituto Federal de Santa Catarina
+  - 📖 Studying Web development at ![Rocketseat](https://www.rocketseat.com.br)
   ### Skills
   
    ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -12,7 +16,13 @@
    ![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E)
    ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Contact 
-[![Linkedin](https://img.shields.io/badge/-alanwengrze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanwengrze/)](https://www.linkedin.com/in/alanwengrze/)
-[![Gmail Badge](https://img.shields.io/badge/-alanwengrzee@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanwengrzee@gmail.com )](mailto:alanwengrzee@gmail.com )
+  ### Contact 
+  [![Linkedin](https://img.shields.io/badge/-alanwengrze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanwengrze/)](https://www.linkedin.com/in/alanwengrze/)
+  [![Gmail Badge](https://img.shields.io/badge/-alanwengrzee@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanwengrzee@gmail.com )](mailto:alanwengrzee@gmail.com )
+    <br><br>
+    <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=alanwengrze&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
 
