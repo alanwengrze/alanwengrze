@@ -22,7 +22,7 @@
     <br><br>
     <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=alanwengrze&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=alanwengrze&theme=react&hide_border=false"
         alt="Github Stats"
       />
 
