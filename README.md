@@ -1,5 +1,6 @@
-### Hi, I'm Alan Wengrze!
-  **
+## Hi, I'm Alan Wengrze!
+  ### Skills
+  
    ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
    ![CSS](https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=1572B6)
    ![Javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -11,9 +12,7 @@
    ![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E)
    ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <h2>Contact</h2>
-<div>
-  <a href = "mailto:alanwengrzee@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alanwengrze/" target="_blank"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=D14836" target="_blank"></a> 
- </div>
+### Contact 
+[![Linkedin](https://img.shields.io/badge/-alanwengrze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanwengrze/)](https://www.linkedin.com/in/alanwengrze/)
+[![Gmail Badge](https://img.shields.io/badge/-alanwengrzee@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanwengrzee@gmail.com )](mailto:alanwengrzee@gmail.com )
 
