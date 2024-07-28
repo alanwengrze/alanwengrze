@@ -17,8 +17,8 @@
    ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white)
 
   ### Contact 
-  [![Linkedin](https://img.shields.io/badge/-alanwengrze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanwengrze/)](https://www.linkedin.com/in/alanwengrze/)
-  [![Gmail Badge](https://img.shields.io/badge/-alanwengrzee@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanwengrzee@gmail.com )](mailto:alanwengrzee@gmail.com )
+  [![Linkedin](https://img.shields.io/badge/-alanwengrze-20232A?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/alanwengrze/)](https://www.linkedin.com/in/alanwengrze/)
+  [![Gmail Badge](https://img.shields.io/badge/-alanwengrzee@gmail.com-20232A?style=flat-square&logo=Gmail&logoColor=D14836&link=mailto:alanwengrzee@gmail.com )](mailto:alanwengrzee@gmail.com )
     <br><br>
     <img
         align="center"
