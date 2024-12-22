@@ -5,14 +5,15 @@
   - 📖 Studying Web development at [Rocketseat](https://www.rocketseat.com.br)
   ### Skills
   
-   ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-   ![CSS](https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=1572B6)
    ![Javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-   ![Styled-components](https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093)
-   ![Nodejs](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D)
+   ![Typescript](https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue)
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![Express](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge)
    ![React-router-dom](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245)
+   ![Styled-components](https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+   ![Shadcn-UI](https://img.shields.io/badge/Shadcn%20UI-20232A?style=for-the-badge&logo=shadcnui&logoColor=white)
+   ![Radix-UI](https://img.shields.io/badge/RADIX%20UI-20232A?style=for-the-badge&logo=radixui&logoColor=white)
+   ![Nodejs](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D)
+   ![Express](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge)
    ![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E)
    ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white)
 
